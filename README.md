@@ -96,7 +96,6 @@ const enzo: Engineer = {
 | Project | Description |
 |---------|-------------|
 | [**aws-infrasec-mcp-server**](https://github.com/edlsh/aws-infrasec-mcp-server) | 🔐 AWS Infrastructure Security MCP Server |
-| [**ai-cli-proxy-api**](https://github.com/edlsh/ai-cli-proxy-api) | 🤖 CLI Proxy for AI providers (ChatGPT, Claude) |
 | [**dotfiles**](https://github.com/edlsh/dotfiles) | 🏠 Personal dotfiles managed with chezmoi |
 
 </div>
