@@ -1,11 +1,7 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:cba6f7,50:89b4fa,100:94e2d5&height=120&section=header"/>
-
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=4000&pause=1000&color=CBA6F7&center=true&vCenter=true&random=false&width=435&lines=Hey%2C+I'm+Enzo+%F0%9F%91%8B" alt="Typing SVG" />
-</h1>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=200&color=0:1e1e2e,100:313244&text=Hey,%20I'm%20Enzo&fontSize=50&fontColor=cba6f7&animation=fadeIn"/>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=89B4FA&center=true&vCenter=true&random=false&width=435&lines=AI+Engineer;Cloud+Architect;Automation+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=22&duration=2000&pause=500&color=89B4FA&center=true&vCenter=true&repeat=true&width=600&lines=%E2%96%B6+AI+Engineer;%E2%96%B6+Cloud+Architect;%E2%96%B6+Automation+Enthusiast;%E2%96%B6+Building+intelligent+systems..." alt="Typing SVG" />
 </h3>
 
 <p align="center">
