@@ -1,19 +1,22 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:cba6f7,50:89b4fa,100:94e2d5&height=180&section=header&text=Hey,%20I'm%20Enzo%20👋&fontSize=36&fontColor=cdd6f4&fontAlignY=35&animation=fadeIn"/>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:cba6f7,50:89b4fa,100:94e2d5&height=180&section=header&text=Hey,%20I'm%20Enzo%20👋&fontSize=36&fontColor=1e1e2e&fontAlignY=35&animation=fadeIn"/>
-</picture>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=4000&pause=1000&color=CBA6F7&center=true&vCenter=true&random=false&width=435&lines=Hey%2C+I'm+Enzo+%F0%9F%91%8B" alt="Typing SVG" />
+</h1>
 
-<div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=CBA6F7&center=true&vCenter=true&multiline=true&random=false&width=600&height=80&lines=AI+Engineer+%7C+Cloud+Architect+%7C+Automation+Enthusiast;Building+intelligent+systems+that+scale)](https://git.io/typing-svg)
+<h3 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=89B4FA&center=true&vCenter=true&random=false&width=435&lines=AI+Engineer;Cloud+Architect;Automation+Enthusiast" alt="Typing SVG" />
+</h3>
 
-<br/>
-
-[![Website](https://img.shields.io/badge/edl.sh-cba6f7?style=for-the-badge&logo=safari&logoColor=1e1e2e)](https://edl.sh)
-[![Twitter](https://img.shields.io/badge/@edlzsh-89b4fa?style=for-the-badge&logo=x&logoColor=1e1e2e)](https://twitter.com/edlzsh)
-[![GitHub](https://img.shields.io/badge/edlsh-a6e3a1?style=for-the-badge&logo=github&logoColor=1e1e2e)](https://github.com/edlsh)
-
-</div>
+<p align="center">
+  <a href="https://edl.sh">
+    <img src="https://img.shields.io/badge/🌐_edl.sh-CBA6F7?style=for-the-badge" alt="Website"/>
+  </a>
+  <a href="https://twitter.com/edlzsh">
+    <img src="https://img.shields.io/badge/𝕏_@edlzsh-89B4FA?style=for-the-badge" alt="Twitter"/>
+  </a>
+  <a href="https://github.com/edlsh">
+    <img src="https://img.shields.io/badge/GitHub-A6E3A1?style=for-the-badge&logo=github&logoColor=1e1e2e" alt="GitHub"/>
+  </a>
+</p>
 
 ---
 
@@ -28,82 +31,88 @@ const enzo: Engineer = {
 };
 ```
 
-<br/>
+---
 
 ## 🛠️ Tech Stack
 
 <div align="center">
 
-#### Languages
-![Python](https://img.shields.io/badge/Python-cba6f7?style=for-the-badge&logo=python&logoColor=1e1e2e)
-![TypeScript](https://img.shields.io/badge/TypeScript-89b4fa?style=for-the-badge&logo=typescript&logoColor=1e1e2e)
-![Go](https://img.shields.io/badge/Go-94e2d5?style=for-the-badge&logo=go&logoColor=1e1e2e)
-![Rust](https://img.shields.io/badge/Rust-fab387?style=for-the-badge&logo=rust&logoColor=1e1e2e)
+**Languages**
 
-#### AI & ML
-![OpenAI](https://img.shields.io/badge/OpenAI-cba6f7?style=for-the-badge&logo=openai&logoColor=1e1e2e)
-![Anthropic](https://img.shields.io/badge/Claude-f5c2e7?style=for-the-badge&logo=anthropic&logoColor=1e1e2e)
-![LangChain](https://img.shields.io/badge/LangChain-a6e3a1?style=for-the-badge&logo=chainlink&logoColor=1e1e2e)
+![Python](https://img.shields.io/badge/Python-CBA6F7?style=flat-square&logo=python&logoColor=1e1e2e)
+![TypeScript](https://img.shields.io/badge/TypeScript-89B4FA?style=flat-square&logo=typescript&logoColor=1e1e2e)
+![Go](https://img.shields.io/badge/Go-94E2D5?style=flat-square&logo=go&logoColor=1e1e2e)
+![Rust](https://img.shields.io/badge/Rust-FAB387?style=flat-square&logo=rust&logoColor=1e1e2e)
+![Shell](https://img.shields.io/badge/Shell-A6E3A1?style=flat-square&logo=gnubash&logoColor=1e1e2e)
 
-#### Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-fab387?style=for-the-badge&logo=amazonwebservices&logoColor=1e1e2e)
-![Terraform](https://img.shields.io/badge/Terraform-b4befe?style=for-the-badge&logo=terraform&logoColor=1e1e2e)
-![Docker](https://img.shields.io/badge/Docker-89dceb?style=for-the-badge&logo=docker&logoColor=1e1e2e)
+**AI & ML**
 
-#### Tools
-![Neovim](https://img.shields.io/badge/Neovim-a6e3a1?style=for-the-badge&logo=neovim&logoColor=1e1e2e)
-![Git](https://img.shields.io/badge/Git-f38ba8?style=for-the-badge&logo=git&logoColor=1e1e2e)
-![Linux](https://img.shields.io/badge/Linux-f9e2af?style=for-the-badge&logo=linux&logoColor=1e1e2e)
+![OpenAI](https://img.shields.io/badge/OpenAI-CBA6F7?style=flat-square&logo=openai&logoColor=1e1e2e)
+![Claude](https://img.shields.io/badge/Anthropic-F5C2E7?style=flat-square&logo=anthropic&logoColor=1e1e2e)
+![LangChain](https://img.shields.io/badge/LangChain-A6E3A1?style=flat-square&logo=langchain&logoColor=1e1e2e)
+
+**Cloud & DevOps**
+
+![AWS](https://img.shields.io/badge/AWS-FAB387?style=flat-square&logo=amazonwebservices&logoColor=1e1e2e)
+![Terraform](https://img.shields.io/badge/Terraform-B4BEFE?style=flat-square&logo=terraform&logoColor=1e1e2e)
+![Docker](https://img.shields.io/badge/Docker-89DCEB?style=flat-square&logo=docker&logoColor=1e1e2e)
+
+**Tools**
+
+![Neovim](https://img.shields.io/badge/Neovim-A6E3A1?style=flat-square&logo=neovim&logoColor=1e1e2e)
+![Git](https://img.shields.io/badge/Git-F38BA8?style=flat-square&logo=git&logoColor=1e1e2e)
+![Linux](https://img.shields.io/badge/Linux-F9E2AF?style=flat-square&logo=linux&logoColor=1e1e2e)
 
 </div>
 
-<br/>
+---
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=edlsh&show_icons=true&hide_border=true&bg_color=1e1e2e&title_color=cba6f7&text_color=cdd6f4&icon_color=89b4fa" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edlsh&layout=compact&hide_border=true&bg_color=1e1e2e&title_color=cba6f7&text_color=cdd6f4" height="165"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=edlsh&show_icons=true&hide_border=true&bg_color=1e1e2e&title_color=cba6f7&text_color=cdd6f4&icon_color=89b4fa&include_all_commits=true&count_private=true" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=edlsh&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" height="165" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=edlsh&layout=compact&hide_border=true&bg_color=1e1e2e&title_color=cba6f7&text_color=cdd6f4&langs_count=8" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=edlsh&layout=compact&hide_border=true&langs_count=8" height="165" />
+  </picture>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=edlsh&hide_border=true&background=1e1e2e&stroke=313244&ring=cba6f7&fire=fab387&currStreakLabel=cba6f7&sideLabels=cdd6f4&currStreakNum=cdd6f4&sideNums=cdd6f4&dates=6c7086" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=edlsh&hide_border=true&background=1e1e2e&stroke=313244&ring=cba6f7&fire=fab387&currStreakLabel=cba6f7&sideLabels=cdd6f4&currStreakNum=cdd6f4&sideNums=cdd6f4&dates=6c7086" />
+    <img src="https://streak-stats.demolab.com?user=edlsh&hide_border=true" />
+  </picture>
 </div>
 
-<br/>
+---
 
 ## 🚀 Featured Projects
 
 <div align="center">
 
-[![AWS Infrasec MCP](https://github-readme-stats.vercel.app/api/pin/?username=edlsh&repo=aws-infrasec-mcp-server&hide_border=true&bg_color=1e1e2e&title_color=cba6f7&text_color=cdd6f4&icon_color=89b4fa)](https://github.com/edlsh/aws-infrasec-mcp-server)
-[![AI CLI Proxy](https://github-readme-stats.vercel.app/api/pin/?username=edlsh&repo=ai-cli-proxy-api&hide_border=true&bg_color=1e1e2e&title_color=cba6f7&text_color=cdd6f4&icon_color=89b4fa)](https://github.com/edlsh/ai-cli-proxy-api)
+| Project | Description |
+|---------|-------------|
+| [**aws-infrasec-mcp-server**](https://github.com/edlsh/aws-infrasec-mcp-server) | 🔐 AWS Infrastructure Security MCP Server |
+| [**ai-cli-proxy-api**](https://github.com/edlsh/ai-cli-proxy-api) | 🤖 CLI Proxy for AI providers (ChatGPT, Claude) |
+| [**dotfiles**](https://github.com/edlsh/dotfiles) | 🏠 Personal dotfiles managed with chezmoi |
 
 </div>
-
-<br/>
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=edlsh&theme=algolia&no-frame=true&no-bg=true&column=7&title_color=cba6f7"/>
-</div>
-
-<br/>
 
 ---
 
 <div align="center">
   
-  <img src="https://komarev.com/ghpvc/?username=edlsh&color=cba6f7&style=for-the-badge&label=Profile+Views"/>
+  <img src="https://komarev.com/ghpvc/?username=edlsh&color=cba6f7&style=flat-square&label=Profile+Views" alt="Profile Views"/>
   
   <br/><br/>
   
   *"The best code is no code at all. The second best is code that writes itself."*
   
+  <br/>
+  
+  **💜 Powered by Catppuccin Mocha**
+  
 </div>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:94e2d5,50:89b4fa,100:cba6f7&height=100&section=footer"/>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:94e2d5,50:89b4fa,100:cba6f7&height=100&section=footer"/>
-</picture>
