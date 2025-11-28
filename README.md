@@ -96,8 +96,8 @@ const enzo: Engineer = {
 | Project | Description |
 |---------|-------------|
 | [**dotfiles**](https://github.com/edlsh/dotfiles) | 🏠 Personal dotfiles managed with chezmoi |
-| [**aws-infrasec-mcp-server**](https://github.com/edlsh/aws-infrasec-mcp-server) | 🔐 AWS Infrastructure Security MCP Server |
 | [**audio-extraction-analysis**](https://github.com/edlsh/audio-extraction-analysis) | 🎵 Audio extraction and analysis tools |
+| [**aws-infrasec-mcp-server**](https://github.com/edlsh/aws-infrasec-mcp-server) | 🔐 AWS Infrastructure Security MCP Server |
 
 </div>
 
