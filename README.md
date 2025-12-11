@@ -18,7 +18,7 @@
 
 ---
 
-## 🧠 About Me
+## About Me
 
 ```typescript
 const enzo: Engineer = {
@@ -31,7 +31,7 @@ const enzo: Engineer = {
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -65,37 +65,37 @@ const enzo: Engineer = {
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=edlsh&show_icons=true&hide_border=true&bg_color=1e1e2e&title_color=cba6f7&text_color=cdd6f4&icon_color=89b4fa&include_all_commits=true&count_private=true" />
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=edlsh&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" height="165" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=edlsh&show_icons=true&hide_border=true&bg_color=1e1e2e&title_color=cba6f7&text_color=cdd6f4&icon_color=89b4fa&include_all_commits=true&count_private=true" />
+    <img src="https://github-readme-stats.vercel.app/api?username=edlsh&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" height="165" />
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=edlsh&layout=compact&hide_border=true&bg_color=1e1e2e&title_color=cba6f7&text_color=cdd6f4&langs_count=8" />
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=edlsh&layout=compact&hide_border=true&langs_count=8" height="165" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=edlsh&layout=compact&hide_border=true&bg_color=1e1e2e&title_color=cba6f7&text_color=cdd6f4&langs_count=8" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edlsh&layout=compact&hide_border=true&langs_count=8" height="165" />
   </picture>
 </div>
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=edlsh&hide_border=true&background=1e1e2e&stroke=313244&ring=cba6f7&fire=fab387&currStreakLabel=cba6f7&sideLabels=cdd6f4&currStreakNum=cdd6f4&sideNums=cdd6f4&dates=6c7086" />
-    <img src="https://streak-stats.demolab.com?user=edlsh&hide_border=true" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=edlsh&hide_border=true&background=1e1e2e&stroke=313244&ring=cba6f7&fire=fab387&currStreakLabel=cba6f7&sideLabels=cdd6f4&currStreakNum=cdd6f4&sideNums=cdd6f4&dates=6c7086" />
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=edlsh&hide_border=true" />
   </picture>
 </div>
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 <div align="center">
 
 | Project | Description |
 |---------|-------------|
-| [**dotfiles**](https://github.com/edlsh/dotfiles) | 🏠 Personal dotfiles managed with chezmoi |
-| [**audio-extraction-analysis**](https://github.com/edlsh/audio-extraction-analysis) | 🎵 Audio extraction and analysis tools |
-| [**aws-infrasec-mcp-server**](https://github.com/edlsh/aws-infrasec-mcp-server) | 🔐 AWS Infrastructure Security MCP Server |
+| [**dotfiles**](https://github.com/edlsh/dotfiles) | Personal dotfiles managed with chezmoi |
+| [**audio-extraction-analysis**](https://github.com/edlsh/audio-extraction-analysis) | Audio extraction and analysis tools |
+| [**aws-infrasec-mcp-server**](https://github.com/edlsh/aws-infrasec-mcp-server) | AWS Infrastructure Security MCP Server |
 
 </div>
 
@@ -108,10 +108,6 @@ const enzo: Engineer = {
   <br/><br/>
   
   *"The best code is no code at all. The second best is code that writes itself."*
-  
-  <br/>
-  
-  **💜 Powered by Catppuccin Mocha**
   
 </div>
 
