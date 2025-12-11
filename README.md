@@ -72,10 +72,6 @@ const enzo: Engineer = {
   <img src="https://github-readme-stats-enzo-lucchesis-projects.vercel.app/api/top-langs/?username=edlsh&layout=compact&hide_border=true&bg_color=1e1e2e&title_color=cba6f7&text_color=cdd6f4&langs_count=8" height="165" />
 </div>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=edlsh&hide_border=true&background=1e1e2e&stroke=313244&ring=cba6f7&fire=fab387&currStreakLabel=cba6f7&sideLabels=cdd6f4&currStreakNum=cdd6f4&sideNums=cdd6f4&dates=6c7086" />
-</div>
-
 ---
 
 ## Featured Projects
