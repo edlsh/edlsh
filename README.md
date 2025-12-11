@@ -68,12 +68,8 @@ const enzo: Engineer = {
 ## GitHub Stats
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=edlsh&theme=catppuccin_mocha" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=edlsh&theme=catppuccin_mocha" height="165" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=edlsh&theme=catppuccin_mocha&utcOffset=-3" height="165" />
+  <img src="https://github-readme-stats-enzo-lucchesis-projects.vercel.app/api?username=edlsh&show_icons=true&hide_border=true&bg_color=1e1e2e&title_color=cba6f7&text_color=cdd6f4&icon_color=89b4fa&include_all_commits=true&count_private=true" height="165" />
+  <img src="https://github-readme-stats-enzo-lucchesis-projects.vercel.app/api/top-langs/?username=edlsh&layout=compact&hide_border=true&bg_color=1e1e2e&title_color=cba6f7&text_color=cdd6f4&langs_count=8" height="165" />
 </div>
 
 ---
