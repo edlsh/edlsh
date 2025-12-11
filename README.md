@@ -68,21 +68,12 @@ const enzo: Engineer = {
 ## GitHub Stats
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=edlsh&show_icons=true&hide_border=true&bg_color=1e1e2e&title_color=cba6f7&text_color=cdd6f4&icon_color=89b4fa&include_all_commits=true&count_private=true" />
-    <img src="https://github-readme-stats.vercel.app/api?username=edlsh&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" height="165" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=edlsh&layout=compact&hide_border=true&bg_color=1e1e2e&title_color=cba6f7&text_color=cdd6f4&langs_count=8" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edlsh&layout=compact&hide_border=true&langs_count=8" height="165" />
-  </picture>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=edlsh&theme=catppuccin_mocha" />
 </div>
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=edlsh&hide_border=true&background=1e1e2e&stroke=313244&ring=cba6f7&fire=fab387&currStreakLabel=cba6f7&sideLabels=cdd6f4&currStreakNum=cdd6f4&sideNums=cdd6f4&dates=6c7086" />
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=edlsh&hide_border=true" />
-  </picture>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=edlsh&theme=catppuccin_mocha" height="165" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=edlsh&theme=catppuccin_mocha&utcOffset=-3" height="165" />
 </div>
 
 ---
@@ -102,13 +93,7 @@ const enzo: Engineer = {
 ---
 
 <div align="center">
-  
   <img src="https://komarev.com/ghpvc/?username=edlsh&color=cba6f7&style=flat-square&label=Profile+Views" alt="Profile Views"/>
-  
-  <br/><br/>
-  
-  *"The best code is no code at all. The second best is code that writes itself."*
-  
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:94e2d5,50:89b4fa,100:cba6f7&height=120&section=footer"/>
