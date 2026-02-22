@@ -80,8 +80,9 @@ const enzo: Engineer = {
 
 | Project | Description |
 |---------|-------------|
-| [**audio-extraction-analysis**](https://github.com/edlsh/audio-extraction-analysis) | Audio extraction and analysis tools |
-| [**aws-infrasec-mcp-server**](https://github.com/edlsh/aws-infrasec-mcp-server) | AWS Infrastructure Security MCP Server |
+| [**amp-acp**](https://github.com/edlsh/amp-acp) | ACP adapter — use Amp from Zed and other ACP clients |
+| [**audio-extraction-analysis**](https://github.com/edlsh/audio-extraction-analysis) | Transform recordings into structured documentation |
+| [**pi-ask-user**](https://github.com/edlsh/pi-ask-user) | Interactive decision-gating tool for AI agents |
 
 </div>
 
