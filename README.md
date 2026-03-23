@@ -66,20 +66,10 @@ const enzo = {
 ## Featured Projects
 
 <div align="center">
-
-<a href="https://github.com/edlsh/amp-acp">
-  <img width="400" src="https://github-readme-stats-enzo-lucchesis-projects.vercel.app/api/pin/?username=edlsh&repo=amp-acp&hide_border=true&bg_color=1e1e2e&title_color=cba6f7&text_color=cdd6f4&icon_color=89b4fa" alt="amp-acp" />
-</a>
-<a href="https://github.com/edlsh/pi-ask-user">
-  <img width="400" src="https://github-readme-stats-enzo-lucchesis-projects.vercel.app/api/pin/?username=edlsh&repo=pi-ask-user&hide_border=true&bg_color=1e1e2e&title_color=cba6f7&text_color=cdd6f4&icon_color=89b4fa" alt="pi-ask-user" />
-</a>
-<a href="https://github.com/edlsh/pi-extension-e2b">
-  <img width="400" src="https://github-readme-stats-enzo-lucchesis-projects.vercel.app/api/pin/?username=edlsh&repo=pi-extension-e2b&hide_border=true&bg_color=1e1e2e&title_color=cba6f7&text_color=cdd6f4&icon_color=89b4fa" alt="pi-extension-e2b" />
-</a>
-<a href="https://github.com/edlsh/audio-extraction-analysis">
-  <img width="400" src="https://github-readme-stats-enzo-lucchesis-projects.vercel.app/api/pin/?username=edlsh&repo=audio-extraction-analysis&hide_border=true&bg_color=1e1e2e&title_color=cba6f7&text_color=cdd6f4&icon_color=89b4fa" alt="audio-extraction-analysis" />
-</a>
-
+  <a href="https://github.com/edlsh/amp-acp"><img width="49%" src="https://github-readme-stats-enzo-lucchesis-projects.vercel.app/api/pin/?username=edlsh&repo=amp-acp&hide_border=true&bg_color=1e1e2e&title_color=cba6f7&text_color=cdd6f4&icon_color=89b4fa" alt="amp-acp" /></a>
+  <a href="https://github.com/edlsh/pi-ask-user"><img width="49%" src="https://github-readme-stats-enzo-lucchesis-projects.vercel.app/api/pin/?username=edlsh&repo=pi-ask-user&hide_border=true&bg_color=1e1e2e&title_color=cba6f7&text_color=cdd6f4&icon_color=89b4fa" alt="pi-ask-user" /></a>
+  <a href="https://github.com/edlsh/pi-extension-e2b"><img width="49%" src="https://github-readme-stats-enzo-lucchesis-projects.vercel.app/api/pin/?username=edlsh&repo=pi-extension-e2b&hide_border=true&bg_color=1e1e2e&title_color=cba6f7&text_color=cdd6f4&icon_color=89b4fa" alt="pi-extension-e2b" /></a>
+  <a href="https://github.com/edlsh/audio-extraction-analysis"><img width="49%" src="https://github-readme-stats-enzo-lucchesis-projects.vercel.app/api/pin/?username=edlsh&repo=audio-extraction-analysis&hide_border=true&bg_color=1e1e2e&title_color=cba6f7&text_color=cdd6f4&icon_color=89b4fa" alt="audio-extraction-analysis" /></a>
 </div>
 
 ---
