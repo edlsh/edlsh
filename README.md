@@ -77,12 +77,12 @@ const enzo = {
 ## GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.n1x-rootgrid.workers.dev/api?username=edlsh&show_icons=true&hide_border=true&bg_color=1e1e2e&title_color=cba6f7&text_color=cdd6f4&icon_color=89b4fa&include_all_commits=true&count_private=true" height="165" />
-  <img src="https://github-readme-stats.n1x-rootgrid.workers.dev/api/top-langs?username=edlsh&layout=compact&hide_border=true&bg_color=1e1e2e&title_color=cba6f7&text_color=cdd6f4&langs_count=8" height="165" />
+  <img src="https://github-readme-stats.n1x-rootgrid.workers.dev/api?username=edlsh&show_icons=true&hide_border=true&bg_color=1e1e2e&title_color=cba6f7&text_color=cdd6f4&icon_color=89b4fa&include_all_commits=true&count_private=true&v=2" height="165" />
+  <img src="https://github-readme-stats.n1x-rootgrid.workers.dev/api/top-langs?username=edlsh&layout=compact&hide_border=true&bg_color=1e1e2e&title_color=cba6f7&text_color=cdd6f4&langs_count=8&v=2" height="165" />
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=edlsh&hide_border=true&background=1e1e2e&ring=cba6f7&fire=fab387&currStreakLabel=89b4fa&sideLabels=cdd6f4&currStreakNum=cdd6f4&sideNums=cdd6f4&dates=585b70" />
+  <img src="https://streak-stats.demolab.com?user=edlsh&hide_border=true&background=1e1e2e&ring=cba6f7&fire=fab387&currStreakLabel=89b4fa&sideLabels=cdd6f4&currStreakNum=cdd6f4&sideNums=cdd6f4&dates=585b70&v=2" />
 </div>
 
 ---
