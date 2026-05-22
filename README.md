@@ -66,10 +66,10 @@ const enzo = {
 ## Featured Projects
 
 <div align="center">
-  <a href="https://github.com/edlsh/pi-ask-user"><img width="49%" src="https://github-readme-stats-enzo-lucchesis-projects.vercel.app/api/pin/?username=edlsh&repo=pi-ask-user&hide_border=true&bg_color=1e1e2e&title_color=cba6f7&text_color=cdd6f4&icon_color=89b4fa" alt="pi-ask-user" /></a>
-  <a href="https://github.com/edlsh/audio-extraction-analysis"><img width="49%" src="https://github-readme-stats-enzo-lucchesis-projects.vercel.app/api/pin/?username=edlsh&repo=audio-extraction-analysis&hide_border=true&bg_color=1e1e2e&title_color=cba6f7&text_color=cdd6f4&icon_color=89b4fa" alt="audio-extraction-analysis" /></a>
-  <a href="https://github.com/edlsh/amp-acp"><img width="49%" src="https://github-readme-stats-enzo-lucchesis-projects.vercel.app/api/pin/?username=edlsh&repo=amp-acp&hide_border=true&bg_color=1e1e2e&title_color=cba6f7&text_color=cdd6f4&icon_color=89b4fa" alt="amp-acp" /></a>
-  <a href="https://github.com/edlsh/pi-extension-e2b"><img width="49%" src="https://github-readme-stats-enzo-lucchesis-projects.vercel.app/api/pin/?username=edlsh&repo=pi-extension-e2b&hide_border=true&bg_color=1e1e2e&title_color=cba6f7&text_color=cdd6f4&icon_color=89b4fa" alt="pi-extension-e2b" /></a>
+  <a href="https://github.com/edlsh/pi-ask-user"><img width="49%" src="https://github-readme-stats.n1x-rootgrid.workers.dev/api/pin?username=edlsh&repo=pi-ask-user&hide_border=true&bg_color=1e1e2e&title_color=cba6f7&text_color=cdd6f4&icon_color=89b4fa" alt="pi-ask-user" /></a>
+  <a href="https://github.com/edlsh/audio-extraction-analysis"><img width="49%" src="https://github-readme-stats.n1x-rootgrid.workers.dev/api/pin?username=edlsh&repo=audio-extraction-analysis&hide_border=true&bg_color=1e1e2e&title_color=cba6f7&text_color=cdd6f4&icon_color=89b4fa" alt="audio-extraction-analysis" /></a>
+  <a href="https://github.com/edlsh/amp-acp"><img width="49%" src="https://github-readme-stats.n1x-rootgrid.workers.dev/api/pin?username=edlsh&repo=amp-acp&hide_border=true&bg_color=1e1e2e&title_color=cba6f7&text_color=cdd6f4&icon_color=89b4fa" alt="amp-acp" /></a>
+  <a href="https://github.com/edlsh/pi-extension-e2b"><img width="49%" src="https://github-readme-stats.n1x-rootgrid.workers.dev/api/pin?username=edlsh&repo=pi-extension-e2b&hide_border=true&bg_color=1e1e2e&title_color=cba6f7&text_color=cdd6f4&icon_color=89b4fa" alt="pi-extension-e2b" /></a>
 </div>
 
 ---
@@ -77,12 +77,12 @@ const enzo = {
 ## GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats-enzo-lucchesis-projects.vercel.app/api?username=edlsh&show_icons=true&hide_border=true&bg_color=1e1e2e&title_color=cba6f7&text_color=cdd6f4&icon_color=89b4fa&include_all_commits=true&count_private=true" height="165" />
-  <img src="https://github-readme-stats-enzo-lucchesis-projects.vercel.app/api/top-langs/?username=edlsh&layout=compact&hide_border=true&bg_color=1e1e2e&title_color=cba6f7&text_color=cdd6f4&langs_count=8" height="165" />
+  <img src="https://github-readme-stats.n1x-rootgrid.workers.dev/api?username=edlsh&show_icons=true&hide_border=true&bg_color=1e1e2e&title_color=cba6f7&text_color=cdd6f4&icon_color=89b4fa&include_all_commits=true&count_private=true" height="165" />
+  <img src="https://github-readme-stats.n1x-rootgrid.workers.dev/api/top-langs?username=edlsh&layout=compact&hide_border=true&bg_color=1e1e2e&title_color=cba6f7&text_color=cdd6f4&langs_count=8" height="165" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=edlsh&hide_border=true&background=1e1e2e&ring=cba6f7&fire=fab387&currStreakLabel=89b4fa&sideLabels=cdd6f4&currStreakNum=cdd6f4&sideNums=cdd6f4&dates=585b70" />
+  <img src="https://streak-stats.demolab.com?user=edlsh&hide_border=true&background=1e1e2e&ring=cba6f7&fire=fab387&currStreakLabel=89b4fa&sideLabels=cdd6f4&currStreakNum=cdd6f4&sideNums=cdd6f4&dates=585b70" />
 </div>
 
 ---
