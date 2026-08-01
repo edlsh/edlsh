@@ -5,8 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://edl.sh">edl.sh</a> ·
-  <a href="https://twitter.com/edlzsh">@edlzsh</a>
+  <a href="https://edl.sh">edl.sh</a>
 </p>
 
 ---
